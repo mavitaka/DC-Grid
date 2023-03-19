@@ -1,0 +1,1 @@
+"./HardwareSetup.obj" "./Task_RTOS.obj" "./main.obj" "../TM4C123GH6PM.cmd" -l"configPkg/linker.cmd" -l"C:/ti_NEW/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" -llibc.a 
